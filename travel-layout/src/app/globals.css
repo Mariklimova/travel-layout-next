@@ -1,3 +1,83 @@
+@font-face {
+    font-family:'Playfair Display' ;
+    src: url('../assets/fonts/PlayfairDisplay-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family:'Inter' ;
+    src: url('../assets/fonts/Inter_18pt-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family:'Inter' ;
+    src: url('../assets/fonts/Inter_18pt-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family:'Inter' ;
+    src: url('../assets/fonts/Inter_18pt-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family:'Inter' ;
+    src: url('../assets/fonts/Inter_18pt-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family:'Inter' ;
+    src: url('../assets/fonts/Inter_18pt-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family:'Inter' ;
+    src: url('../assets/fonts/Inter_24pt-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family:'Inter' ;
+    src: url('../assets/fonts/Inter_24pt-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family:'Inter' ;
+    src: url('../assets/fonts/Inter_24pt-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family:'Inter' ;
+    src: url('../assets/fonts/Inter_24pt-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family:'Inter' ;
+    src: url('../assets/fonts/Inter_24pt-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family:'Inter' ;
+    src: url('../assets/fonts/Inter_28pt-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family:'Inter' ;
+    src: url('../assets/fonts/Inter_28pt-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family:'Inter' ;
+    src: url('../assets/fonts/Inter_28pt-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family:'Inter' ;
+    src: url('../assets/fonts/Inter_28pt-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family:'Inter' ;
+    src: url('../assets/fonts/Inter_28pt-SemiBold.ttf') format('truetype');
+}
+
 *{
     margin: 0;
     padding: 0;

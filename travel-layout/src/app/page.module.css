@@ -1,6 +1,7 @@
-.main{
-padding-left: 210px;
+.main {
+  padding-left: 210px;
 }
+
 .preview {
   display: flex;
   margin-top: 114px;
@@ -55,6 +56,8 @@ padding-left: 210px;
   &:hover {
     background-color: #0d765c;
     color: #FB8F1D;
+    transform: scale(1.1);
+    box-shadow: 5px 5px 10px #0d765cb7;
   }
 }
 
@@ -112,5 +115,7 @@ padding-left: 210px;
   &:hover {
     background-color: #0d765c;
     color: #FB8F1D;
+    transform: scale(1.1);
+    box-shadow: 5px 5px 10px #0d765cb7;
   }
 }

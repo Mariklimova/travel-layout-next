@@ -42,6 +42,8 @@
     &:hover {
         color: #0d765c;
         border-color: #0d765c;
+        transform: scale(1.1);
+        box-shadow: 5px 5px 10px #0d765cb7;
     }
 }
 
@@ -57,5 +59,7 @@
     &:hover {
         background-color: #0d765c;
         color: #FB8F1D;
+        transform: scale(1.1);
+        box-shadow: 5px 5px 10px #0d765cb7;
     }
 }
